@@ -129,8 +129,3 @@ dmypy.json
 .pyre/
 .venv/
 db.sqlite3
-.venv/
-db.sqlite3
-
-.venv/
-db.sqlite3
